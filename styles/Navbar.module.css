@@ -1,0 +1,28 @@
+.nav_container {
+    position: sticky;
+    top: 0;
+    /* background-color: #171717ab; */
+    z-index: 10;
+}
+
+.nav {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.linkGroup {
+    display: flex;
+    flex-direction: row;
+}
+
+.linkItem {
+    font-weight: 300;
+    color: white;
+    list-style-type: none;
+    font-size: 1.3em;
+    margin-left: 2.2rem;
+}

@@ -1,0 +1,17 @@
+.leftSection {
+    flex: 1;
+}
+
+.main_button {
+    margin-top: 1em;
+    border-radius: 10px;
+    color: var(--complementary-400);
+    background-color: var(--main-color-600);
+    border: 0;
+    border-radius: 0.25rem;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.6rem 1.3rem;
+    cursor: pointer;
+}
